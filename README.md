@@ -1,2 +1,2 @@
 # csvtomdtable
-go application to convert a cvs file to git md table
+D application to convert a cvs file to git md table
